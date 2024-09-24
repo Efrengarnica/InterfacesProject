@@ -35,6 +35,9 @@ public class Cuadrado implements FigurasGeometricas {
 		return getLado()*4;
 	}
 	
+	//Lo estoy modificando para ver que pasa con el .gitIgnore 
+	
+	
 	
 	
 
